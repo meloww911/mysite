@@ -1,0 +1,18 @@
+body{
+	 background: linear-gradient( 90deg, red, orange , yellow);
+	
+}
+h1{
+	text-align: center;
+	color:black;
+}
+h2{
+	
+}
+a{
+	color:linear-gradient(90deg, red, orange , yellow);
+	text-align: center;	
+}
+
+
+	
